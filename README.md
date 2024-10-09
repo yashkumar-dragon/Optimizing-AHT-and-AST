@@ -1,5 +1,5 @@
 # Optimizing-AHT-and-AST
-Project Overview
+
 This project focuses on optimizing key metrics such as Average Handle Time (AHT) and Average Speed to Answer (AST) for United Airlines. The goal is to reduce call resolution times and improve customer satisfaction through data analysis, machine learning, and process automation recommendations.
 
 Steps to Deploy This Project
